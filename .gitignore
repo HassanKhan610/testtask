@@ -1,0 +1,20 @@
+# Django
+__pycache__/
+*.pyc
+
+# React
+FE/testtask-fe/node_modules/
+FE/testtask-fe/build/
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Virtual Environments
+BE/.venv/
+BE/testTask/.env
+BE/testTask/db.sqlite3
